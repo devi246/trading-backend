@@ -2,7 +2,6 @@ package main
 
 import (
 	"example/anon/trust/deal"
-	"example/anon/trust/deal/jeison"
 	"example/anon/trust/server"
 	"example/anon/trust/test"
 	"fmt"
@@ -25,9 +24,9 @@ func main() {
 
 	test.InitData(&archives)
 
-	test.All(&archives)
+	//test.All(&archives)
 
-	jeison.TestJson()
+	//jeison.TestJson()
 
 	server.Server(&archives)
 

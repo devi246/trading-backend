@@ -4,7 +4,6 @@ import (
 	"example/anon/trust/deal"
 	"example/anon/trust/sinput"
 	"example/anon/trust/test"
-	"log"
 	"net/http"
 	"os"
 
@@ -26,7 +25,7 @@ func Server(archives *deal.Archives) {
 	CorsOrigin := "https://trading-frontend-seven.vercel.app"
 
 	if port == "" {
-		log.Fatal("$PORT must be set")
+		//log.Fatal("$PORT must be set")
 		port = "1323"
 		CorsOrigin = "http://localhost:3000"
 	}
