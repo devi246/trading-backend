@@ -1,0 +1,199 @@
+
+/*
+
+NOVELTY
+
+promises as a whole
+	small promises can be made. to multiple people.
+		or use them to gather funds.
+
+	they can be traded. they can be made simply.
+
+	they are available to individuals and organizations
+
+gifts
+
+*/
+
+
+
+
+/*
+
+COMMAND LIST
+
+CREATION
+	new promise
+		privacy? target? hermes?
+
+INITIALIZATION
+	invite other parties
+
+ALTER
+	alter promise
+	accept alteration
+	change deliverer
+
+DROP
+	drop promise
+	accept drop
+
+ERRORS
+	raise error
+
+	resolve error
+
+VIEW
+	profile
+	promise
+
+MESSAGING
+
+
+*/
+
+/*
+
+ACCOUNT
+
+	create
+	alter
+	delete
+	remove data
+
+*/
+
+/*
+
+TRUST
+
+	phone
+	email
+	facebook, twitter, etc
+	website
+
+	completed transactions
+
+	deposit, or have someone make a deposit for you
+		+insurance
+
+	recommendations / stars / comments
+		are they real? trustable?
+
+	passport / drivers license
+	credit card or similar
+
+	================================================================
+	user initiated verification
+		check the persons info. call the person (verify name and account) send email.
+
+*/
+
+/*
+
+PROMISE FEATURES
+
+	simple one-sided promise
+	loan
+
+	timing, recipient call-in
+	repetition
+
+	seriousness, optional, maybes ?
+
+	blueprints (self-created, or given by insurer or other)
+
+
+TRADEABLE PROMISE
+	change recipient, promiser, insurer
+
+*/
+
+
+
+
+/*
+
+INTEGRATION
+	with other services
+
+	API
+	BITCOIN
+	DHL
+	Insurer
+
+*/
+
+
+
+/*
+
+LAWS
+	Privacy Laws
+	Money Laws
+	Product/Service Laws
+
+
+*/
+
+
+/*
+
+ADVANCED TECHNICAL FEATURES
+
+	Accounts
+		Captcha, etc
+
+	Fault Tolerance / Replication / DDos Protection / Security
+		Redis
+
+	System Distribution / Data Center
+
+	Search Functionality
+		& SEO
+
+	Verification
+		Phone
+
+	Coms
+		Messages, Comments
+		Email
+		SMS
+
+	Caching, Languages
+
+*/
+
+/*
+
+ADVANCED CONCEPTUAL FEATURES
+
+	Promise Trader
+		Promise Coins
+
+		Standard Promise
+			"loans based" "oil based" etc
+
+			they can be interchanged easily
+
+		Flexible Proportions
+
+	Clustered Promises
+	Splits & Joins
+	Fractional Promises
+
+	Multi Trades
+
+*/
+
+
+/*
+
+DISPUTES
+	resolve how? investigate?
+
+	buy investigator.
+	sell dispute?
+
+
+*/

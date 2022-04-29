@@ -1,0 +1,7 @@
+CROSS SITE STUFF
+
+https://stackoverflow.com/questions/46288437/set-cookies-for-cross-origin-requests
+https://stackoverflow.com/questions/40543372/set-withcredentials-to-the-new-es6-built-in-http-request-api-fetch/40543547#40543547
+
+https://blog.bitsrc.io/how-and-why-you-should-avoid-cors-in-single-page-apps-db25452ad2f8
+

@@ -1,0 +1,29 @@
+
+PHASES
+
+    LEVEL 1 - PROTOTYPE 1
+
+        Runs online. Has a back-end and a front-end.
+
+        Primitive Features:
+            users, offers, CRUD, Login
+
+    LEVEL 1 - PROTOTYPE 2
+        database
+
+
+    -------------------------------------
+
+
+    LEVEL 2 - EARLY RELEASE
+        Robust Accounts
+        Bitcoin
+        Notifications
+        Basic Legal
+        Basic Docs
+
+    LEVEL 3 - RELEASE
+        Company, Legal
+        Fault Tolerance
+        API
+
